@@ -6,12 +6,30 @@
     <title>Document</title>
 </head>
 <body>
-    <form>
+    <h1>The form action attribute</h1>
+     <form action="process.php" method="POST">
+         <!-- //form action="" is used for sending data to the server -->
+         
+     <label for="name"> Name 
+        <!-- <label for="Name" is same as <p>Name  -->
+            <input name="Login name" type="text" placeholder="Enter Username">
+        </label>
 
-        <p>
-            <input type="text">
-
+        <p>Email 
+            <input name="Email address" type="email" placeholder="Enter Email">
         </p>
+
+        <p>Password 
+            <input name="Password" type="password" placeholder="Enter Password">
+        </p>
+
+            <input name="Uploading file" type="file">
+        <p>
+            <input name="Submit" type="submit">
+        </p>
+            
+
+        
     </form>
 </body>
 </html>
