@@ -3,10 +3,7 @@ let person = {
     num: 2
 };
 
-document.write('Hello world!');
-
 person.name = 'George';
-
 person['name']= 'Marry';
 
 console.log(person.name);
