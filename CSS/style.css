@@ -1,6 +1,21 @@
-p
-{
+
+/*p **This program is for external.html
+ {
     color:red;
     font-weight: bold;
     font-size:50px;
+} */
+
+/* p
+{
+    color: blue;
+} */
+
+
+div p
+{
+    color: darkcyan;
+    background:cornsilk;
+     
 }
+ 
