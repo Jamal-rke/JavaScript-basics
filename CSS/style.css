@@ -10,7 +10,9 @@
 {
     color: blue;
 } */
-
+p, h1, h3{
+    color: chartreuse;
+}
 
 div p
 {
@@ -19,12 +21,15 @@ div p
      
 }
 #firstPara
+/* # (hash) is used for class) */
 {
-color: black;    
+color:yellow; 
+background-color: aquamarine; 
 }
  
-.secondPara
+.firstPara
+/* . (dot) is used for class) */
 {
     color:turquoise;
-    background-color: black;
+    
 }
