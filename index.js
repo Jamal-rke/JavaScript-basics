@@ -1,5 +1,5 @@
 let person = 'JAMAL';
-console.log(name);
+console.log(person);
  
 
 

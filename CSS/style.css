@@ -10,15 +10,15 @@
 {
     color: blue;
 } */
-p, h1, h3{
+p, h1, h3
+{
     color: chartreuse;
 }
 
 div p
 {
     color: darkcyan;
-    background:cornsilk;
-     
+         
 }
 #firstPara
 /* # (hash) is used for class) */
