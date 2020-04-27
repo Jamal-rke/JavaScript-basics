@@ -1,7 +1,4 @@
-// let person = 'JAMAL';
-console.log(person);
- 
-
-
+ let name = 'Santosh'
+ console.log(name); 
 
 
