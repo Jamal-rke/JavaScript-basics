@@ -3,4 +3,13 @@ let person =
     name: "Jamal",
     designation: "Frontend developer"
 };
-console.log(person);
+
+//Dot Notation
+person.name = 'Mayla';
+
+//Bracket Notation
+let abc = 'name';
+person[abc] = 'Nusrat';
+
+
+console.log(person.name);
